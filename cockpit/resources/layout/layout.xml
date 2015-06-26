@@ -1,0 +1,8 @@
+<layout id="MainLayout">
+    <label x="center" text="Initialisation..." color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_CENTER" id="statusField" y="50"></label><label
+    	justification="Gfx.TEXT_JUSTIFY_CENTER" id="latField" x="center" color="Gfx.COLOR_WHITE" y="70">
+</label>
+	<label justification="Gfx.TEXT_JUSTIFY_CENTER" id="lngField" x="center" color="Gfx.COLOR_WHITE" y="90"></label>
+	<label color="Gfx.COLOR_WHITE" id="headingField" justification="Gfx.TEXT_JUSTIFY_CENTER" x="center" y="110"></label>
+	<label color="Gfx.COLOR_WHITE" id="freeField" justification="Gfx.TEXT_JUSTIFY_CENTER" x="center" y="120"></label>
+</layout>
